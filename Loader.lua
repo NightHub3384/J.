@@ -1,6 +1,6 @@
 local gamelist = {
-	[4777817887] = "https://raw.githubusercontent.com/NightsTimeZ/loader/refs/heads/main/bb.lua",
-    [1202096104] = "https://raw.githubusercontent.com/NightsTimeZ/loader/refs/heads/main/dve.lua"
+	[4777817887] = "https://raw.githubusercontent.com/NightHub3384/J./refs/heads/main/bb.lua",
+    [1202096104] = "https://raw.githubusercontent.com/NightHub3384/J./refs/heads/main/dve.lua"
 }
 local checkgame = gamelist[game.gameId]
 
